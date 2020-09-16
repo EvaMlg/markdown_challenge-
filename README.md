@@ -3,17 +3,18 @@
 *Quote*
 Photo
 Me, in one sentence
-Birthday
+22/02/1994
 Blue
-Favorite food
+Japonese Ramen
 Pinneapple on pizza : No, lord, no
 * Hobbies 
-* Litterature
-  * Ex
-  * Ex
-  * Ex
+* Litterature / Literature 
+ * Vieux films français / French old boring movies 
+ * Vieilles rom-com / Old romantics movies 
 * Cinema
-* Nourriture
+* Nourriture / Food
+ * Fromage / Cheese
+ * Fruits de mer / Seafood 
 # You can't always count on me when... 
 S'organiser
-C'est un 0 qui croise un 8 et lui dit : tiens tu as mis une ceinture.
+> C'est un 0 qui croise un 8 et lui dit : tiens tu as mis une ceinture.
