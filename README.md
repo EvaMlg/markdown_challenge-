@@ -1,16 +1,17 @@
 # Eva Maréchal
 # *Quote*
-# Photo
+# Photo 
 ## Me, in one sentence
 
-22/02/1994 |
------------|
-Bleu / Blue|
-Ramen Japonais / Japonese Ramen | 
+Infos | :)
+------------ | -------------
+Date de naissance | 22/02/1994 
+Couleur/Color | Bleu / Blue
+Nourriture/Food | Ramen Japonais / Japonese Ramen  
 
 ### Pinneapple on pizza : [ ] YES [ ] NO [x] NO GOD, PLEASE, NO! 
 
-#### * Hobbies 
+#### Hobbies 
 * Cinema 
   * Vieux films français / French old boring movies 
   * Vieilles rom-com / Old romantics movies 
