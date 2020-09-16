@@ -1,6 +1,6 @@
 # Eva Maréchal
 
-# *Imagination is a powerful agent for creating, as it were, a second nature out of the material supplied to it by actual nature.—  Emmanuel Kant* From [Random Quote Generator](https://miniwebtool.com/random-quote-generator/)
+# *Imagination is a powerful agent for creating, as it were, a second nature out of the material supplied to it by actual nature.—  Emmanuel Kant* — From [Random Quote Generator](https://miniwebtool.com/random-quote-generator/)
 
 ![Alt Text](https://avatars1.githubusercontent.com/u/66125662?s=460&u=18b4472fb9034041cbf916bc76d958061503f1e4&v=4)
 ## Me, in one sentence. Me, in two sentence. Me, in three sentence. Me, in four sentence. Me, in five sentence. Etc.
