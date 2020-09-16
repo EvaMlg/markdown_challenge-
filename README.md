@@ -25,5 +25,6 @@ Vous pouvez compter sur moi si vous avez besoin de quelqu'un d'organisé (VRAIME
 ### Funny Story
 Eodem tempore Serenianus ex duce, cuius ignavia populatam in Phoenice Celsen ante rettulimus, pulsatae maiestatis imperii reus iure postulatus ac lege, incertum qua potuit suffragatione absolvi, aperte convictus familiarem suum cum pileo, quo caput operiebat, incantato vetitis artibus ad templum misisse fatidicum, quaeritatum expresse an ei firmum portenderetur imperium, ut cupiebat, et cunctum.
 #### TL;DR 
-0C'est un *0* qui croise un *8* et lui dit *"tiens tu as mis une ceinture."*/ It's a *zero* who crosses a *eight* and says *"here you put a belt!.*
+C'est un *0* qui croise un *8* et lui dit *"tiens tu as mis une ceinture."*/ It's a *zero* who crosses a *eight* and says *"here you put a belt!.*
+
 [<< previous](https://github.com/GemaHonesta/markdownchallenge/blob/master/README.md) || EVA MARÉCHAL || [next >>](https://github.com/GemaHonesta/markdownchallenge/blob/master/README.md) 
