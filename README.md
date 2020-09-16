@@ -1,5 +1,7 @@
 # Eva Maréchal
-# *Quote*
+
+# *Beauty is one of the rare things that do not lead to doubt of God.—  Jean Anouilh* From [Random Quote Generator](https://miniwebtool.com/random-quote-generator/)
+
 ![Alt Text](https://avatars1.githubusercontent.com/u/66125662?s=460&u=18b4472fb9034041cbf916bc76d958061503f1e4&v=4)
 ## Me, in one sentence
 
@@ -8,8 +10,7 @@ Infos | :)
 Date de naissance | 22/02/1994 
 Couleur/Color | Bleu / Blue
 Nourriture/Food | Ramen Japonais / Japonese Ramen  
-
-### Pinneapple on pizza : [ ] YES [ ] NO [x] NO GOD, PLEASE, NO! 
+Pinneapple on pizza : | <ul><li>- [ ] YES </li><li>- [ ] NO </li><li>- [x] NO GOD, PLEASE, NO!</li></ul>
 
 #### Hobbies 
 * Cinema 
