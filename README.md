@@ -3,10 +3,13 @@
 # Photo
 ## Me, in one sentence
 
-### 22/02/1994
-### Bleu / Blue
-### Ramen Japonais / Japonese Ramen
-### Pinneapple on pizza : [ ] YES [ ] NO [x] NO GOD, PLEASE, NO!
+22/02/1994 |
+-----------|
+Bleu / Blue|
+Ramen Japonais / Japonese Ramen | 
+
+### Pinneapple on pizza : [ ] YES [ ] NO [x] NO GOD, PLEASE, NO! 
+
 #### * Hobbies 
 * Cinema 
   * Vieux films français / French old boring movies 
